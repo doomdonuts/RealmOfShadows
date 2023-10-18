@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Object
+  - Boss
+  - Chazz
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ultra Background
+    uniqueID: 2420754595
+    locked: 0
+  - name: Background
+    uniqueID: 3590218647
+    locked: 0
+  - name: Colliders
+    uniqueID: 3475258991
+    locked: 0
+  - name: Walls
+    uniqueID: 1686078701
+    locked: 0
+  - name: Sprites
+    uniqueID: 2378649309
+    locked: 0
+  - name: Foreground
+    uniqueID: 1977366231
+    locked: 0
+  - name: UI
+    uniqueID: 3560390817
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

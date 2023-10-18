@@ -1,0 +1,1484 @@
+fileFormatVersion: 2
+guid: cf6d67bfca0d1fd4aa95ec857f6f84e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8279363044443975889
+    second: Chazz_0
+  - first:
+      213: -5873227553806155149
+    second: Chazz_1
+  - first:
+      213: 1979545936985503585
+    second: Chazz_2
+  - first:
+      213: 6373131451000635539
+    second: Chazz_3
+  - first:
+      213: -7754716542808830762
+    second: Chazz_4
+  - first:
+      213: 2635974184834228286
+    second: Chazz_5
+  - first:
+      213: -9017252740651857479
+    second: Chazz_6
+  - first:
+      213: -9073448734033652336
+    second: Chazz_7
+  - first:
+      213: -5064229999138124453
+    second: Chazz_8
+  - first:
+      213: 903880719552600784
+    second: Chazz_9
+  - first:
+      213: 589160006471290371
+    second: Chazz_10
+  - first:
+      213: 7928807044122138119
+    second: Chazz_11
+  - first:
+      213: 8626577348120971234
+    second: Chazz_12
+  - first:
+      213: -4124983902683358290
+    second: Chazz_13
+  - first:
+      213: -7445202063920327703
+    second: Chazz_14
+  - first:
+      213: -6943423158692412456
+    second: Chazz_15
+  - first:
+      213: -8476127837206972649
+    second: Chazz_16
+  - first:
+      213: 5924303513389395944
+    second: Chazz_17
+  - first:
+      213: -7128590077045996765
+    second: Chazz_18
+  - first:
+      213: -110277770569883277
+    second: Chazz_19
+  - first:
+      213: 6893683647862645316
+    second: Chazz_20
+  - first:
+      213: -7960651449859019798
+    second: Chazz_21
+  - first:
+      213: -4516917165226127339
+    second: Chazz_22
+  - first:
+      213: 7881010838661797499
+    second: Chazz_23
+  - first:
+      213: 4260542943259134299
+    second: Chazz_24
+  - first:
+      213: -5413008122526257641
+    second: Chazz_25
+  - first:
+      213: -2249330804324610939
+    second: Chazz_26
+  - first:
+      213: -2266511452221235011
+    second: Chazz_27
+  - first:
+      213: 8415135580978164452
+    second: Chazz_28
+  - first:
+      213: -6393158105914083824
+    second: Chazz_29
+  - first:
+      213: -7952097345316176675
+    second: Chazz_30
+  - first:
+      213: -4594765151605578750
+    second: Chazz_31
+  - first:
+      213: 1186598198656028525
+    second: Chazz_32
+  - first:
+      213: 2898196664730761337
+    second: Chazz_33
+  - first:
+      213: 2318908373955979011
+    second: Chazz_34
+  - first:
+      213: 7354907936827265549
+    second: Chazz_35
+  - first:
+      213: 1558956704153501183
+    second: Chazz_36
+  - first:
+      213: 2003920221334620310
+    second: Chazz_37
+  - first:
+      213: -1766618029267936003
+    second: Chazz_38
+  - first:
+      213: -4519606935662528224
+    second: Chazz_39
+  - first:
+      213: -2501832137801822144
+    second: Chazz_40
+  - first:
+      213: -2949487816555227114
+    second: Chazz_41
+  - first:
+      213: 1607993797833602466
+    second: Chazz_42
+  - first:
+      213: 5224255689283861680
+    second: Chazz_43
+  - first:
+      213: -933938378769195739
+    second: Chazz_44
+  - first:
+      213: 763580090363819162
+    second: Chazz_45
+  - first:
+      213: 1470513860719278793
+    second: Chazz_46
+  - first:
+      213: 7263309958626696725
+    second: Chazz_47
+  - first:
+      213: 40298754714744360
+    second: Chazz_48
+  - first:
+      213: -2551042567069665764
+    second: Chazz_49
+  - first:
+      213: -7898971945725571506
+    second: Chazz_50
+  - first:
+      213: 2813186028932292107
+    second: Chazz_51
+  - first:
+      213: 591931326778270615
+    second: Chazz_52
+  - first:
+      213: 4023135337663067151
+    second: Chazz_53
+  - first:
+      213: -5422576927337345966
+    second: Chazz_54
+  - first:
+      213: 44393057403916751
+    second: Chazz_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chazz_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f8b615d2bc91d80800000000000000
+      internalID: -8279363044443975889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 459
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372095258aa1e7ea0800000000000000
+      internalID: -5873227553806155149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 459
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167b696aa82c87b10800000000000000
+      internalID: 1979545936985503585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 459
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39043c3d949e17850800000000000000
+      internalID: 6373131451000635539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 459
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcc80cf366b16490800000000000000
+      internalID: -7754716542808830762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 459
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30e42c1e8cd49420800000000000000
+      internalID: 2635974184834228286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 459
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9478768684cd280800000000000000
+      internalID: -9017252740651857479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 459
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095d4381372a41280800000000000000
+      internalID: -9073448734033652336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 459
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dce70b5ad38b9b0800000000000000
+      internalID: -5064229999138124453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 459
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad148b9ba3b8c00800000000000000
+      internalID: 903880719552600784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e869587ed1d2800800000000000000
+      internalID: 589160006471290371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 374
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706d38d7ff7c80e60800000000000000
+      internalID: 7928807044122138119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 374
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e78e2e7462c7b770800000000000000
+      internalID: 8626577348120971234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 374
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab9a50eefc11c6c0800000000000000
+      internalID: -4124983902683358290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 374
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e316035b245da890800000000000000
+      internalID: -7445202063920327703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 374
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d30beccc6104af90800000000000000
+      internalID: -6943423158692412456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 374
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7177a78f3aebe5a80800000000000000
+      internalID: -8476127837206972649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 374
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef6c2938aa573250800000000000000
+      internalID: 5924303513389395944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 374
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3238c440819221d90800000000000000
+      internalID: -7128590077045996765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 374
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3716f82b3f6387ef0800000000000000
+      internalID: -110277770569883277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442a5c0e0c84baf50800000000000000
+      internalID: 6893683647862645316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_21
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 289
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb64760fa5168190800000000000000
+      internalID: -7960651449859019798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 289
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51015d615cfa051c0800000000000000
+      internalID: -4516917165226127339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 289
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7690753a99fe5d60800000000000000
+      internalID: 7881010838661797499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 289
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59024bcb3d702b30800000000000000
+      internalID: 4260542943259134299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 289
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ea48abac121e4b0800000000000000
+      internalID: -5413008122526257641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 289
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c43e90d85c8c0e0800000000000000
+      internalID: -2249330804324610939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 289
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0affab7dbbb80e0800000000000000
+      internalID: -2266511452221235011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e234f0c93198c470800000000000000
+      internalID: 8415135580978164452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 204
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016f4183390f647a0800000000000000
+      internalID: -6393158105914083824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_30
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 204
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc3a11b89974a190800000000000000
+      internalID: -7952097345316176675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_31
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 204
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204a430507d1c30c0800000000000000
+      internalID: -4594765151605578750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fc20a56c4a77010800000000000000
+      internalID: 1186598198656028525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 204
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978bf72e286783820800000000000000
+      internalID: 2898196664730761337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_34
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307235841ea6e2020800000000000000
+      internalID: 2318908373955979011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 204
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d025a42fcc1e11660800000000000000
+      internalID: 7354907936827265549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd784bdcd682a510800000000000000
+      internalID: 1558956704153501183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_37
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 204
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6984fd6f2da5fcb10800000000000000
+      internalID: 2003920221334620310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc1fa72346bb77e0800000000000000
+      internalID: -1766618029267936003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_39
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 119
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029717b10712741c0800000000000000
+      internalID: -4519606935662528224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_40
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 119
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0409aaa0de4b74dd0800000000000000
+      internalID: -2501832137801822144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 119
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61812e835705117d0800000000000000
+      internalID: -2949487816555227114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_42
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 119
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a537e0f6ddb05610800000000000000
+      internalID: 1607993797833602466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 119
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf39fbed8408840800000000000000
+      internalID: 5224255689283861680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_44
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 119
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d9b532efbf903f0800000000000000
+      internalID: -933938378769195739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_45
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 119
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9432bbeb08c89a00800000000000000
+      internalID: 763580090363819162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_46
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 119
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caf571b090586410800000000000000
+      internalID: 1470513860719278793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_47
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 119
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e5089bce57cc460800000000000000
+      internalID: 7263309958626696725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826b9aff08b2f8000800000000000000
+      internalID: 40298754714744360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1679ee1d40e89cd0800000000000000
+      internalID: -2551042567069665764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e404cadd6316290800000000000000
+      internalID: -7898971945725571506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ed995d9c17a0720800000000000000
+      internalID: 2813186028932292107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_52
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 34
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7936b00d766f63800800000000000000
+      internalID: 591931326778270615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 34
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f047abc264c05d730800000000000000
+      internalID: 4023135337663067151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_54
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 34
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c04deb3032fb4b0800000000000000
+      internalID: -5422576927337345966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chazz_55
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 34
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1dd012047bd9000800000000000000
+      internalID: 44393057403916751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
